@@ -1,0 +1,15 @@
+{
+    "firstName": "Marisa",
+    "lastName": "Martel Oh",
+    "nickName": "Marisa",
+    "privateName": true,
+    "picture": "marisamartel.jpg",
+    "privatePicture": false,
+    "email": "marisa.marteloh@mail.utoronto.ca",
+    "privateEmail": true,
+    "github": "marisamartel",
+    "privateGithub": false,
+    "superpower" : "Black belt in taekwondo!",
+    "academicinterests": "Double-major in History & English with an interest in post-colonial studies."
+  }
+  
